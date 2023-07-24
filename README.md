@@ -16,11 +16,6 @@ I found out 38 countries out of 96 member states of the UN use "hanging" as the 
 * Creating a website using Scrollama
 ## Things I wanted to do
 For the visualization, I wanted to make the scroll and chart animations to work in conjunction with the triggers. For the data analysis, I wanted to dig the public opinion poll deeper.
-## Data used for Analysis
-
-## Notebooks
-
-
 ## The link
 (https://mymo5303.github.io/project03-deathpenalty/)
 
