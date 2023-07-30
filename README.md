@@ -17,5 +17,5 @@ I found out 38 countries out of 96 member states of the UN use "hanging" as the 
 ## Things I would have done
 For the visualization, I wanted to make the scroll and chart animations to work in conjunction with the triggers. For the data analysis, I wanted to dig the public opinion poll deeper.
 ## The link
-(https://mymo5303.github.io/project03-deathpenalty/)
+https://mymo5303.github.io/project03-deathpenalty/
 
